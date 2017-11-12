@@ -1,0 +1,32 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	/*width: 100vw;
+	height: 100vw;*/
+}
+/*#nineBox{
+	width: 100vw;
+	height: 100vw;
+	overflow:hidden;
+}*/
+
+.nine{
+	float: left;
+	width: 30%;
+	height: 30%;
+	line-height: 30vw;
+	margin: 2.5% 0 0 2.5%;
+	background: greenyellow;
+	text-align: center;
+	font-size: 200%;
+	border-radius: 20%;
+	border:dashed 1 greenyellow;
+}
+/*.nine{
+   margin:2.5% 0 0 2.5%;
+   padding-top:30%;
+   width:30%;
+   background:yellow;
+   float:left;
+   border-radius:15%;
+}*/
